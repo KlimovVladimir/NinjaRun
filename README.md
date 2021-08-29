@@ -10,3 +10,7 @@
 * Стрелка вверх - прыжок  
 * Пробел - атака  
 Скриншоты:  
+![0](https://user-images.githubusercontent.com/39966486/131254437-786d564f-82fe-43c5-96d5-ca5350b64e6f.PNG)  
+![1](https://user-images.githubusercontent.com/39966486/131254448-8f975ba7-7a0c-481d-9d01-b6736868a793.PNG)  
+![2](https://user-images.githubusercontent.com/39966486/131254457-589aa28c-a8e0-403e-845f-d8287256b82e.PNG)  
+![3](https://user-images.githubusercontent.com/39966486/131254462-1e8de846-1b0a-43c4-b6a9-f3b56525d7cd.PNG)
